@@ -1,0 +1,49 @@
+Quartier,NombreSdB,NbChambres,NbLits,tokenized_Type_logement,tokenized_type_propriete,Capacite_accueil,parking_sur-place,Caution,prediction
+Centre ville,1,2,2,logement entier,appartement,4,1,140,64.40409088134766
+Centre ville,3,4,4,logement entier,appartement,4,1,240,114.17870330810547
+Centre ville,1,2,2,logement entier,appartement,4,1,140,64.40409088134766
+Centre ville,1,2,2,logement entier,appartement,4,1,140,64.40409088134766
+Centre ville,1,2,2,logement entier,appartement,4,1,140,64.40409088134766
+Centre ville,1,2,2,logement entier,appartement,4,1,140,64.40409088134766
+Centre ville,1,2,2,logement entier,appartement,4,1,140,64.40409088134766
+Centre ville,1,2,2,logement entier,appartement,4,1,140,64.40409088134766
+Centre ville,1,2,2,logement entier,appartement,4,1,140,64.40409088134766
+Centre ville,3,3,3,logement entier,appartement,5,1,654,99.18246459960938
+Centre ville,3,3,3,logement entier,appartement,5,1,654,99.18246459960938
+Centre ville,3,3,3,logement entier,appartement,5,1,267,99.18743896484375
+Centre ville,3,3,3,logement entier,appartement,5,1,753,100.54411315917969
+Centre ville,3,3,3,logement entier,appartement,5,1,284,99.18743896484375
+Centre ville,3,3,3,logement entier,appartement,5,1,37,100.8227767944336
+Centre ville,3,3,3,logement entier,appartement,5,1,63528,130.56028747558594
+Centre ville,3,3,3,logement entier,appartement,5,1,65,93.51261901855469
+Centre ville,3,3,3,logement entier,appartement,5,1,765,100.54411315917969
+Centre ville,3,3,3,logement entier,appartement,5,1,365,93.31009674072266
+Centre ville,3,3,3,logement entier,appartement,5,1,345,99.18743896484375
+Centre ville,3,3,3,logement entier,appartement,5,1,376,93.31009674072266
+Centre ville,3,3,3,logement entier,appartement,5,1,1234,96.01021575927734
+Centre ville,3,3,3,logement entier,appartement,5,1,645,99.18246459960938
+Centre ville,1,1,1,logement entier,studio,1,0,150,22.439725875854492
+Centre ville,1,1,1,logement entier,studio,1,0,150,22.439725875854492
+Centre ville,3,3,4,logement entier,appartement,6,1,300,123.34868621826172
+Centre ville,3,3,4,logement entier,appartement,6,1,300,123.34868621826172
+Centre ville,3,3,3,logement entier,appartement,5,1,654,99.18246459960938
+Centre ville,3,3,5,logement entier,appartement,7,1,150,145.27906799316406
+Centre ville,3,3,5,logement entier,appartement,7,1,200,143.81509399414062
+Centre ville,3,3,5,logement entier,appartement,7,1,200,143.81509399414062
+banlieue,1,2,3,appartement,appartement,4,1,50,60.07521057128906
+Centre ville,3,2,5,logement entier,maison,6,0,200,91.37999725341797
+Centre ville,1,4,4,logement entier,maison,5,1,400,101.45999908447266
+Centre ville,1,4,4,logement entier,maison,5,1,285,98.88999938964844
+Centre ville,1,4,4,logement entier,maison,5,1,285,98.88999938964844
+Centre ville,1,4,4,logement entier,appartement,5,1,285,98.88999938964844
+Centre ville,2,2,2,Chambre privée,Maison,2,0,223,55.720001220703125
+Autre,2,4,5,Autre,Autre,7,0,350,154.58999633789062
+Bordeaux Sud,1,4,5,Logement entier,Maison,6,1,100,121.69999694824219
+Bordeaux Sud,1,4,5,Logement entier,Maison de ville,6,1,200,120.23999786376953
+La Bastide,1,2,3,Logement entier,Appartement,4,1,120,64.4000015258789
+La Bastide,2,3,3,Logement entier,Appartement,6,1,455,111.47000122070312
+Chartrons - Grand Parc - Jardin Public,2,4,6,Logement entier,Villa,8,1,250,141.24000549316406
+Chartrons - Grand Parc - Jardin Public,2,4,6,Logement entier,Villa,8,1,250,141.24000549316406
+Chartrons - Grand Parc - Jardin Public,2,4,6,Logement entier,Villa,8,1,1,142.8699951171875
+Bordeaux Sud,2,4,6,Logement entier,Villa,8,1,150,138.25999450683594
+Bordeaux Sud,1,3,4,Logement entier,Maison,5,0,50,64.41000366210938

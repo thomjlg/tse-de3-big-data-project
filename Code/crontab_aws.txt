@@ -1,0 +1,4 @@
+0 0 * * * sudo wget https://bucket-big-data.s3.amazonaws.com/data/predicted.csv && mv predicted.csv Data/predicted.csv
+0 0 * * * aws s3 mv Data/bigdata.csv s3://bucket-big-data/data/bigdata.csv
+5 0 * * * python3 script/predicted.py
+5 0 1,15 * * python3 script/donnees.py
